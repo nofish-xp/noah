@@ -1,0 +1,2 @@
+# noah
+practice to AI
